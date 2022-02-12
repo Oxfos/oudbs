@@ -1,6 +1,5 @@
+*.fdb
 *order*.sql
 *Order*.sql
-*order*.fdb
-*Order*.fdb
 *Order*/*
 *order*/*
